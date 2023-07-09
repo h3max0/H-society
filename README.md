@@ -14,7 +14,7 @@ coming soon
 ```
 >> git clone https://github.com/h3max0/H-society
 
->> cd Facebook-BruteForce
+>> cd H-Society
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
 >> python3 hs.py or python hs2.py
