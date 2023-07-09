@@ -12,7 +12,7 @@ coming soon
 
 ## Run commands one by one
 ```
->> git clone https://github.com/h3max0/H-society/tree/main
+>> git clone https://github.com/h3max0/H-society
 
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
